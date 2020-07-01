@@ -52,7 +52,7 @@
         <mail.version>1.4.7</mail.version>
         <commons-lang.version>2.6</commons-lang.version>
         <liquibase.version>3.6.1</liquibase.version>
-        <mysql-connector.version>8.0.11</mysql-connector.version>
+        <mysql-connector.version>8.0.16</mysql-connector.version>
         <middleware-core.version>1.2.1-SNAPSHOT</middleware-core.version>
     </properties>
 
