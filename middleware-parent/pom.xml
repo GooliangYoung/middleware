@@ -47,7 +47,7 @@
         <mybatis-plus.version>2.3</mybatis-plus.version>
         <fastjson.version>1.2.47</fastjson.version>
         <druid.version>1.1.9</druid.version>
-        <quartz.version>2.3.0</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <lombok.version>1.16.20</lombok.version>
         <mail.version>1.4.7</mail.version>
         <commons-lang.version>2.6</commons-lang.version>
